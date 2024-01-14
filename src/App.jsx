@@ -4,6 +4,8 @@ import Header from "./components/Header";
 import Resault from "./components/Result";
 import Input from "./components/Input";
 
+//komentarz//
+
 
 
 function App() {
